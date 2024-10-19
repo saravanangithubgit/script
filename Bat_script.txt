@@ -1,0 +1,3 @@
+@echo off
+start "" pythonw.exe C:\path\to\your\script.py
+exit
